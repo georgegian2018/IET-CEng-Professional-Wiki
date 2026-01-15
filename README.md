@@ -41,32 +41,65 @@ All examples are written in line with IET assessor expectations and focus on:
 ## 📁 Repository Contents
 
 ```text
-Home.md
-├── About This Portfolio
-├── Competence A – Knowledge and Understanding
+IET-CEng-Professional-Wiki/
+├── Home.md
+├── _Sidebar.md
+├── _Footer.md
+├── README.md
+├── LICENSE.md
+
+├── 00_Start_Here.md
+├── 01_How_To_Use_This_Wiki.md
+├── 02_UK_SPEC_Overview.md
+├── 03_STAR_SMART_Templates.md
+├── 04_PRI_Preparation_Guide.md
+├── 05_CPD_Log.md
+├── 06_Evidence_Quality_Checklist.md
+├── 07_Assessor_Perspective_Notes.md
+├── 08_FAQ.md
+├── 09_Glossary.md
+
+├── Competence_A/
+│   ├── _Index.md
 │   ├── A1.md
-│   └── A2.md
-├── Competence B – Application of Skills
+│   ├── A2.md
+│   └── A_Template.md
+
+├── Competence_B/
+│   ├── _Index.md
 │   ├── B1.md
 │   ├── B2.md
-│   └── B3.md
-├── Competence C – Project Management and Leadership
+│   ├── B3.md
+│   └── B_Template.md
+
+├── Competence_C/
+│   ├── _Index.md
 │   ├── C1.md
 │   ├── C2.md
 │   ├── C3.md
-│   └── C4.md
-├── Competence D – Communication and Interpersonal Skills
+│   ├── C4.md
+│   └── C_Template.md
+
+├── Competence_D/
+│   ├── _Index.md
 │   ├── D1.md
 │   ├── D2.md
-│   └── D3.md
-├── Competence E – Professional Commitment
+│   ├── D3.md
+│   └── D_Template.md
+
+├── Competence_E/
+│   ├── _Index.md
 │   ├── E1.md
 │   ├── E2.md
 │   ├── E3.md
 │   ├── E4.md
-│   └── E5.md
-├── PRI Preparation Guide.md
-└── CPD Log (Optional).md
+│   ├── E5.md
+│   └── E_Template.md
+
+└── assets/
+    ├── images/
+    └── diagrams/
+
 
 ```
 ---
