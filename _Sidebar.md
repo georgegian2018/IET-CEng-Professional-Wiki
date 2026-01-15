@@ -9,10 +9,10 @@
 ## 📘 Core Guidance
 - [UK-SPEC Overview](02_UK_SPEC_Overview)
 - [How IET Competences Are Written (The Framework)](How%20IET%20Competences%20Are%20Written%20(The%20Framework))
+- [Competence Evidence Workbook (CEng i4)](Competence%20Evidence%20Workbook%20CEng%20i4)
 - [STAR & SMART Templates](03_STAR_SMART_Templates)
 - [Evidence Quality Checklist](06_Evidence_Quality_Checklist)
 - [Assessor Perspective Notes](07_Assessor_Perspective_Notes)
-- [Competence Evidence Workbook (CEng i4)](Competence%20Evidence%20Workbook%20CEng%20i4)
 
 ---
 
