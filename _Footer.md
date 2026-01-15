@@ -6,4 +6,4 @@ This wiki is maintained for professional development, mentoring, and structured 
 
 Content is provided for guidance only. All submitted evidence must reflect the applicant’s own professional experience.
 
-Licensed under the MIT License.
+Licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
