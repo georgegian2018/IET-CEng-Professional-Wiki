@@ -47,7 +47,7 @@ IET-CEng-Professional-Wiki/
 ├── _Footer.md
 ├── README.md
 ├── LICENSE.md
-
+|
 ├── 00_Start_Here.md
 ├── 01_How_To_Use_This_Wiki.md
 ├── 02_UK_SPEC_Overview.md
@@ -58,20 +58,20 @@ IET-CEng-Professional-Wiki/
 ├── 07_Assessor_Perspective_Notes.md
 ├── 08_FAQ.md
 ├── 09_Glossary.md
-
+|
 ├── Competence_A/
 │   ├── _Index.md
 │   ├── A1.md
 │   ├── A2.md
 │   └── A_Template.md
-
+|
 ├── Competence_B/
 │   ├── _Index.md
 │   ├── B1.md
 │   ├── B2.md
 │   ├── B3.md
 │   └── B_Template.md
-
+|
 ├── Competence_C/
 │   ├── _Index.md
 │   ├── C1.md
@@ -79,14 +79,14 @@ IET-CEng-Professional-Wiki/
 │   ├── C3.md
 │   ├── C4.md
 │   └── C_Template.md
-
+|
 ├── Competence_D/
 │   ├── _Index.md
 │   ├── D1.md
 │   ├── D2.md
 │   ├── D3.md
 │   └── D_Template.md
-
+|
 ├── Competence_E/
 │   ├── _Index.md
 │   ├── E1.md
@@ -95,7 +95,7 @@ IET-CEng-Professional-Wiki/
 │   ├── E4.md
 │   ├── E5.md
 │   └── E_Template.md
-
+|
 └── assets/
     ├── images/
     └── diagrams/
