@@ -12,8 +12,11 @@
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 
+![IET Incorporation Engineer](https://img.shields.io/badge/IET-Chartered%20Engineer-orange)
+![IET Engineering Technician](https://img.shields.io/badge/IET-Chartered%20Engineer-green)
+![IET ICT Technician](https://img.shields.io/badge/IET-Chartered%20Engineer-purple)
 
- ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Professional%20Wiki-blue)
 ![Focus](https://img.shields.io/badge/Focus-CEng%20%7C%20UK--SPEC-purple)
 ![Framework](https://img.shields.io/badge/Framework-STAR%20%26%20SMART-orange)
