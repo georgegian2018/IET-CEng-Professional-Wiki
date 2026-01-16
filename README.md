@@ -12,6 +12,20 @@
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 
+
+ ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Type](https://img.shields.io/badge/Type-Professional%20Wiki-blue)
+![Focus](https://img.shields.io/badge/Focus-CEng%20%7C%20UK--SPEC-purple)
+![Framework](https://img.shields.io/badge/Framework-STAR%20%26%20SMART-orange)
+![Audience](https://img.shields.io/badge/Audience-CEng%20Applicants%20%26%20Mentors-teal)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
+![CEng](https://img.shields.io/badge/Registration-CEng-blue)
+![IEng](https://img.shields.io/badge/Registration-IEng-orange)
+![EngTech](https://img.shields.io/badge/Registration-EngTech-green)
+![ICTTech](https://img.shields.io/badge/Registration-ICTTech-purple)
+
 ---
 
 Welcome to my professional portfolio supporting my application for **Chartered Engineer (CEng)** registration with the **Institution of Engineering and Technology (IET)**.
