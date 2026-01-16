@@ -5,6 +5,10 @@
 ![IET Incorporation Engineer](https://img.shields.io/badge/IET-Incorporation%20Engineer-orange)
 ![IET Engineering Technician](https://img.shields.io/badge/IET-Engineering%20Technician-green)
 ![IET ICT Technician](https://img.shields.io/badge/IET-ICT%20Technician-purple)
+![CEng](https://img.shields.io/badge/Registration-CEng-blue)
+![IEng](https://img.shields.io/badge/Registration-IEng-orange)
+![EngTech](https://img.shields.io/badge/Registration-EngTech-green)
+![ICTTech](https://img.shields.io/badge/Registration-ICTTech-purple)
 ![UK-SPEC Aligned](https://img.shields.io/badge/UK--SPEC-Aligned-success)
 ![STAR Method](https://img.shields.io/badge/STAR-Methodology-informational)
 ![SMART Objectives](https://img.shields.io/badge/SMART-Objectives-brightgreen)
@@ -22,10 +26,7 @@
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
 ![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
-![CEng](https://img.shields.io/badge/Registration-CEng-blue)
-![IEng](https://img.shields.io/badge/Registration-IEng-orange)
-![EngTech](https://img.shields.io/badge/Registration-EngTech-green)
-![ICTTech](https://img.shields.io/badge/Registration-ICTTech-purple)
+
 
 ---
 
