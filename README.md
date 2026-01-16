@@ -5,7 +5,7 @@
 ![IET Incorporation Engineer](https://img.shields.io/badge/IET-Incorporation%20Engineer-orange)
 ![IET Engineering Technician](https://img.shields.io/badge/IET-Engineering%20Technician-green)
 ![IET ICT Technician](https://img.shields.io/badge/IET-ICT%20Technician-purple)
-![CEng](https://img.shields.io/badge/Registration-CEng-blue)
+![CEng](https://img.shields.io/badge/Professional-Registration-CEng-blue)
 ![IEng](https://img.shields.io/badge/Registration-IEng-orange)
 ![EngTech](https://img.shields.io/badge/Registration-EngTech-green)
 ![ICTTech](https://img.shields.io/badge/Registration-ICTTech-purple)
