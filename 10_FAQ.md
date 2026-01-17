@@ -1,7 +1,5 @@
 # Frequently Asked Questions (FAQ)
 
----
-
 ### How many examples per competence?
 Quality matters more than quantity. Strong examples can cover multiple sub-competences.
 
