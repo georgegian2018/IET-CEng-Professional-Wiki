@@ -1,4 +1,4 @@
-# Competence E – Professional Commitment
+# 📓 Competence E – Professional Commitment
 
 ## UK-SPEC Statement
 Demonstrate a personal and professional commitment to society, the profession,
