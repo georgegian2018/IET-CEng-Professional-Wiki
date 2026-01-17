@@ -1,4 +1,4 @@
-# Competence B – Application of Engineering
+# 📗 Competence B – Application of Engineering
 
 ## UK-SPEC Statement
 Apply appropriate theoretical and practical methods to the analysis and solution
