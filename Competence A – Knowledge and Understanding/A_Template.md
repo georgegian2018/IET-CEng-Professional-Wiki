@@ -1,4 +1,4 @@
-# 📘 Competence A – Knowledge and Understanding (Template) 
+# 📘 Competence A – Knowledge and Understanding
 
 ## UK-SPEC Statement
 Maintain and extend a sound theoretical approach to enable the development of
