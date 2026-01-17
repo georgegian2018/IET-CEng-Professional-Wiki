@@ -1,4 +1,4 @@
-# Competence D – Communication and Interpersonal Skills
+# 📕 Competence D – Communication and Interpersonal Skills 
 
 ## UK-SPEC Statement
 Demonstrate effective communication and interpersonal skills.
