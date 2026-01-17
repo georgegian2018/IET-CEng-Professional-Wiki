@@ -1,4 +1,4 @@
-# Competence A – Knowledge and Understanding (Template)
+# 📘 Competence A – Knowledge and Understanding (Template) 
 
 ## Competence Statement (UK-SPEC)
 
