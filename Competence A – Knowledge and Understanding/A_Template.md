@@ -1,49 +1,49 @@
 # 📘 Competence A – Knowledge and Understanding (Template) 
 
-## Competence Statement (UK-SPEC)
-
-Describe how you have maintained and extended a sound theoretical approach to enable the development of your professional role.
+## UK-SPEC Statement
+Maintain and extend a sound theoretical approach to enable the development of
+engineering solutions and new applications.
 
 ---
 
 ## Situation
-Briefly describe the engineering context, organisation, project, and timeframe.
-Explain the technical domain and why advanced knowledge was required.
+Describe the technical context, organisation, project, and timeframe.
+Explain the engineering domain and why advanced theoretical knowledge was required.
 
 ---
 
 ## Task
-Define your specific responsibility and objectives.
-State what you were accountable for and the expected outcomes.
+State your specific responsibility.
+Define the technical objectives and constraints you were accountable for.
 
 ---
 
 ## Action
-Explain in detail what you did:
-- Engineering principles, theories, or standards applied
-- Analysis, modelling, calculations, or simulations used
-- Tools, methodologies, or frameworks employed
-- How you updated or extended your knowledge (CPD, research, standards)
+Explain **how you applied and extended engineering knowledge**, including:
+- Engineering principles, theories, and models applied
+- Standards, codes, or guidelines used (e.g. ISO, IEC, IEEE)
+- Analysis, modelling, simulations, or calculations performed
+- How you updated or extended your knowledge (CPD, research, self-study)
 
 ---
 
 ## Result
-Describe measurable outcomes:
+Describe the outcomes:
 - Technical improvements achieved
-- Risk reduction or performance gains
-- Lessons learned
-- Impact on organisation, project, or stakeholders
+- Validation or verification results
+- Lessons learned and knowledge gained
+- Impact on the organisation or project
 
 ---
 
 ## Evidence Mapping
-| Evidence | Description | Reference |
-|--------|------------|-----------|
-| A1 | Technical report | Doc-001 |
-| A2 | Design calculations | Calc-003 |
+| Ref | Evidence Description | Location |
+|----|---------------------|----------|
+| A1 | Technical report | Doc-A1 |
+| A2 | Design calculations | Calc-A2 |
 
 ---
 
-## Reflection (Optional but Recommended)
-Briefly reflect on how this experience contributed to your professional development.
-
+## Reflection
+Briefly reflect on how this experience strengthened your theoretical competence
+and professional development.
