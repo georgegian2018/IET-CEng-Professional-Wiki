@@ -3,7 +3,7 @@
 
 # 📄 `07_Evidence_Quality_Checklist.md`
 
-```markdown```
+
 # Evidence Quality Checklist
 
 Use this checklist **before submission** to assess the quality of each competence example.
