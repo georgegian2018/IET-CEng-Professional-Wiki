@@ -1,7 +1,5 @@
 # 📄 Evidence Quality Checklist
 
----
-
 Use this checklist **before submission** to assess the quality of each competence example.
 
 ---
