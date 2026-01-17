@@ -1,4 +1,4 @@
-# Competence C – Project Management and Leadership
+# 📙 Competence C – Project Management and Leadership
 
 ## UK-SPEC Statement
 Provide technical and commercial leadership and manage projects, people, and resources.
