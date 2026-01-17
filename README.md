@@ -69,14 +69,15 @@ IET-CEng-Professional-Wiki/
 ├── 00_Start_Here.md
 ├── 01_How_To_Use_This_Wiki.md
 ├── 02_UK_SPEC_Overview.md
-├── 03_STAR_SMART_Templates.md
-├── 04_PRI_Preparation_Guide.md
+├── 03_How IET Competences Are Written (The Framework).md
+├── 04_STAR_SMART_Templates.md
 ├── 05_Competence_Evidence_Workbook_CEng_i4.md
 ├── 06_CPD_Log.md 
 ├── 07_Evidence_Quality_Checklist.md
 ├── 08_Assessor_Perspective_Notes.md
-├── 09_FAQ.md
-├── 10_Glossary.md
+├── 09_PRI_Preparation_Guide.md
+├── 10_FAQ.md
+├── 11_Glossary.md
 |
 ├── Competence_A/
 │   ├── _Index.md
