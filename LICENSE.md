@@ -1,5 +1,5 @@
-## 📜 License
-# Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+# 📜 License
+## Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
 
 This repository and its contents are licensed under the  
 **Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
