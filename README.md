@@ -178,7 +178,7 @@ Prepared with structured engineering judgement and AI‑assisted drafting, revie
 
 ---
 ## :house: The starting point
-You can have acccess from here [Home](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Home.md)
+You can have acccess from here [Home](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/00_Start_Here.md)
 
 ---
 ## 📜 License
